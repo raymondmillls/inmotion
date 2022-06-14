@@ -10,3 +10,6 @@ The key features of the website include a looping videobackground, portfolio pag
 The primary tools used to develop the website were JavaScript, HTML, and CSS. For deployment I utilized Netlify.
 
 ## Preview
+
+### About
+![About Page](https://github.com/raymondmillls/inmotion/blob/main/abt.png)
