@@ -1,2 +1,2 @@
 
-[!alt text](https://github.com/raymondmillls/inmotion/blob/main/home.png)
+![Home](https://github.com/raymondmillls/inmotion/blob/main/home.png)
